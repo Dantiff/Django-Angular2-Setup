@@ -47,9 +47,6 @@ These steps will install all required dependencies including development ones, r
 virtualenv appenv
 cd appenv
 
-#Install django
-pip install -r requirements.txt
-
 #Fork or clone this repo.
 git clone https://github.com/Dantiff/Django-Angular2-Setup.git
 cd Django-Angular2-Setup/ngApp/

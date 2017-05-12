@@ -5,11 +5,6 @@ export DJANGO_SETTINGS_MODULE=app.settings
 dev:
 	pip install -r requirements.txt
 
-# Installs development requirements.
-install:
-	npm install
-	npm start
-
 # Runs development server.
 run:
 	pip install -r requirements.txt
