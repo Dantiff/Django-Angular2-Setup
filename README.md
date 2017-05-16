@@ -1,5 +1,7 @@
 # Django + AngularJS-2 Basic Setup
 
+Please find the live application <a href="http://bivestventures.pythonanywhere.com/"> HERE </a>
+
 This is a boilerplate project for using AngularJS-2 with Django. The project was inspired by the  hardships faced by most people while trying to integrate the Django and AngularJS frameworks to work together. The setup can be downloaded and used as the starter settings for any Django-Angular projects in future. The procedure to implementation of this setup is gven as follows:
 
 ### Features
